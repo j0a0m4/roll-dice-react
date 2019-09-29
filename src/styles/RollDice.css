@@ -1,0 +1,38 @@
+.RollDice {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.dices {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
+
+.roll-button {
+  width: 10rem;
+  padding: 1rem;
+  border: 0px;
+  border-radius: 10px;
+  color: white;
+  background-color: black;
+  margin-top: 3em;
+  transition: 700ms;
+}
+.roll-button:hover {
+  cursor: pointer;
+  background-color: darkslateblue;
+}
+
+@media (min-width: 830px) {
+  h1 {
+    font-size: 4rem;
+  }
+  .roll-button {
+    font-size: 1.2rem;
+    width: 15rem;
+    padding: 1.5rem;
+  }
+}
