@@ -3,5 +3,5 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Demo
 Check out the live demo https://festive-sinoussi-ffcd08.netlify.com
 
-## Descruption
+## Description
 This app was made during the Modern React Bootcamp by Colt Steele
